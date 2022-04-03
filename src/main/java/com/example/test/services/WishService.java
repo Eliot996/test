@@ -1,4 +1,4 @@
-package com.example.wishlist.services;
+package com.example.test.services;
 
 public class WishService {
 }

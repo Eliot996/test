@@ -1,4 +1,4 @@
-package com.example.wishlist.models;
+package com.example.test.models;
 
 import java.util.ArrayList;
 

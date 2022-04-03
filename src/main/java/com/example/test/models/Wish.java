@@ -1,4 +1,4 @@
-package com.example.wishlist.models;
+package com.example.test.models;
 
 public class Wish {
     private Wishlist wishlistID;

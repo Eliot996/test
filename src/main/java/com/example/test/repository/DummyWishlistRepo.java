@@ -1,7 +1,7 @@
-package com.example.wishlist.repository;
+package com.example.test.repository;
 
-import com.example.wishlist.models.Wish;
-import com.example.wishlist.models.Wishlist;
+import com.example.test.models.Wish;
+import com.example.test.models.Wishlist;
 
 import java.util.ArrayList;
 import java.util.List;
