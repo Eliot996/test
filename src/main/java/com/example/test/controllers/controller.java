@@ -10,4 +10,9 @@ public class controller {
     public String landing() {
         return "landingpage";
     }
+
+    @GetMapping("/login")
+    public String loginPage(){
+        return "login";
+    }
 }
